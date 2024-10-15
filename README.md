@@ -4,7 +4,7 @@ By: Kieley Shull
 
 ## Description
 
-A script to say hey.
+A script to say *hey*.
   
 ## What is Hey Day?
 
@@ -16,7 +16,7 @@ tradition that Auburn students get to enjoy, will additional opportunities to ge
 
 ## Command Requirements
 
-This code uses the commands "echo" and "read".
+This code uses the commands **`echo`** and **`read`**.
 
 ## How can I run this script?
 This code can be used by:
