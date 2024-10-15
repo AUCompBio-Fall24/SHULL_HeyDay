@@ -23,5 +23,6 @@ This code can be used by:
 
 Downloading the script and going to the directory containing the script.
 Running the script after providing executable permission like so:
-   "SHULL_Heyday.sh"
-   ./SHULL_Heyday.sh
+
+`SHULL_Heyday.sh`
+`./SHULL_Heyday.sh`
